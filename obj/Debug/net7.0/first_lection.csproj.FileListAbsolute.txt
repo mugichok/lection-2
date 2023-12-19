@@ -1,0 +1,15 @@
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\bin\Debug\net7.0\first_lection.exe
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\bin\Debug\net7.0\first_lection.deps.json
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\bin\Debug\net7.0\first_lection.runtimeconfig.json
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\bin\Debug\net7.0\first_lection.dll
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\bin\Debug\net7.0\first_lection.pdb
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\obj\Debug\net7.0\first_lection.csproj.AssemblyReference.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\obj\Debug\net7.0\first_lection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\obj\Debug\net7.0\first_lection.AssemblyInfoInputs.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\obj\Debug\net7.0\first_lection.AssemblyInfo.cs
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\obj\Debug\net7.0\first_lection.csproj.CoreCompileInputs.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\obj\Debug\net7.0\first_lection.dll
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\obj\Debug\net7.0\refint\first_lection.dll
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\obj\Debug\net7.0\first_lection.pdb
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\obj\Debug\net7.0\first_lection.genruntimeconfig.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками лекции\second lection\first_lection\obj\Debug\net7.0\ref\first_lection.dll
